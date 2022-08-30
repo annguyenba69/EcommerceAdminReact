@@ -1,0 +1,8 @@
+.card-header{
+    background-color: rgba(0,0,0,.03);
+}
+
+.card{
+    background-color: #fff;
+    border-radius: 0.25rem;
+}
